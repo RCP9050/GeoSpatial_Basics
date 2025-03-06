@@ -1,4 +1,3 @@
-!pip install matplotlib osgeo numpy
 import streamlit as st
 import matplotlib.pyplot as plt
 from osgeo import gdal
